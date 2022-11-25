@@ -9,8 +9,85 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "my_website",
+    "title": "Lee C. Mercer",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Lee Mercer",
+    "section": "",
+    "text": "Research Assistant\n\n\n\nAn experienced NHS manager, with over a decade of in leadership roles. Following the adoption of our two children, a high achieving student awarded a First in my Psychology BSc. Currently in the final year of a Health Psychology MSc.\n\n\n\n\nResearch Assistant\nUniversity of Bath\nSurvey research design // Recruiting survey volunteers // Ethics application // Drafting a scoping protocol // Supporting a research team // Writing a dissertation\n\n\n\nCareer break & Study\n\nPrimary carer to young children // Psychology BSc // Volunteer - Barnardos, Shout // Health Psychology MSc\n\n\n\nStrategic leadership roles\nAvon & Wiltshire Mental Health Partnership NHS Trust\n\nStrategic transformation // Corporate governance // Risk management // Legal services.\n\n\n\nPatient Safety, risk and legal services\nUniversity Hospitals Bristol NHS Foundation Trust\nGreat Western Hospitals NHS Foundation Trust\n\n\n\n\n\n\nTeam working\nCommunication\nProblem solving\nResearch methods\n\n\n\n\nBesides margin and full width figures, you can of course also include figures constrained to the main column. This is the default type of figures in the LaTeX/HTML output.\n\n\n\nWhen you include a figure constrained to the main column, you can choose to place the figure’s caption in the margin by using the cap-location chunk option. For example:"
+  },
+  {
+    "objectID": "cv.html#margin-figures",
+    "href": "cv.html#margin-figures",
+    "title": "Lee Mercer",
+    "section": "Margin Figures",
+    "text": "Margin Figures\nImages and graphics play an integral role in Tufte’s work. To place figures in the margin you can use the Quarto chunk option column: margin. For example:\nNote the use of the fig-cap chunk option to provide a figure caption. You can adjust the proportions of figures using the fig-width and fig-height chunk options. These are specified in inches, and will be automatically scaled down to fit within the handout margin."
+  },
+  {
+    "objectID": "cv.html#arbitrary-margin-content",
+    "href": "cv.html#arbitrary-margin-content",
+    "title": "Lee Mercer",
+    "section": "Arbitrary Margin Content",
+    "text": "Arbitrary Margin Content\nYou can include anything in the margin by places the class .column-margin on the element. See an example on the right about the first fundamental theorem of calculus.\n\n\nAbout Lee\nAn experienced NHS manager, with over a decade of in leadership roles. Following the adoption of our two children, a high achieving student awarded a First in my Psychology BSc. Currently in the final year of a Health Psychology MSc."
+  },
+  {
+    "objectID": "cv.html#full-width-figures",
+    "href": "cv.html#full-width-figures",
+    "title": "Lee Mercer",
+    "section": "Full Width Figures",
+    "text": "Full Width Figures\nYou can arrange for figures to span across the entire page by using the chunk option fig-column: page-right.\nOther chunk options related to figures can still be used, such as fig-width, fig-cap, and so on. For full width figures, usually fig-width is large and fig-height is small. In the above example, the plot size is \\(11 \\times 3\\)."
+  },
+  {
+    "objectID": "cv.html#arbitrary-full-width-content",
+    "href": "cv.html#arbitrary-full-width-content",
+    "title": "Lee Mercer",
+    "section": "Arbitrary Full Width Content",
+    "text": "Arbitrary Full Width Content\nAny content can span to the full width of the page, simply place the element in a div and add the class column-page-right. For example, the following code will display its contents as full width.\n::: {.fullwidth}\nAny _full width_ content here.\n:::\nBelow is an example:\n\nR is free software and comes with ABSOLUTELY NO WARRANTY. You are welcome to redistribute it under the terms of the GNU General Public License versions 2 or 3. For more information about these matters see https://www.gnu.org/licenses/."
+  },
+  {
+    "objectID": "cv.html#main-column-figures",
+    "href": "cv.html#main-column-figures",
+    "title": "Lee Mercer",
+    "section": "Main Column Figures",
+    "text": "Main Column Figures\nBesides margin and full width figures, you can of course also include figures constrained to the main column. This is the default type of figures in the LaTeX/HTML output."
+  },
+  {
+    "objectID": "cv.html#margin-captions",
+    "href": "cv.html#margin-captions",
+    "title": "Lee Mercer",
+    "section": "Margin Captions",
+    "text": "Margin Captions\nWhen you include a figure constrained to the main column, you can choose to place the figure’s caption in the margin by using the cap-location chunk option. For example:"
+  },
+  {
+    "objectID": "cv.html#volunteering",
+    "href": "cv.html#volunteering",
+    "title": "Lee Mercer",
+    "section": "Volunteering",
+    "text": "Volunteering\nYear | Role | Organisation ||————-|——————————|——————————|\n2017-2019 | Toddler & parent group support worker | Barnardos (www.barnardos.org.uk) |\n2021 | Child and adolescent mental health | Barnados (www.barnardos.org.uk) |\n2021 | Crisis text line volunteer | Shout (www.giveusashout.org.uk) |\n\n2017 - 2019\nToddler group support\nBarnardo’s (www.barnardos.org.uk/)\n2021 Children and adolescent mental health training Barnardo’s (www.barnardos.org.uk/) 2021 Crisis text line volunteer Shout (www. giveusashout.org.uk)"
+  },
+  {
+    "objectID": "cv.html#interests",
+    "href": "cv.html#interests",
+    "title": "Lee Mercer",
+    "section": "Interests",
+    "text": "Interests"
+  },
+  {
+    "objectID": "cv.html#full-employment-history",
+    "href": "cv.html#full-employment-history",
+    "title": "Lee Mercer",
+    "section": "Full employment history",
+    "text": "Full employment history"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Lee Mercer",
+    "section": "Contact",
+    "text": "Contact"
   }
 ]

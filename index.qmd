@@ -1,11 +1,48 @@
 ---
-title: "my_website"
+title: Lee C. Mercer
+comments: False
+format:
+  html:
+    page-layout: full
+listing:
+  - id: landing-posts
+    contents: forblog/posts
+    type: default
+    max-items: 3
+    sort: 
+      - "date desc"
+      - "title asc"
+  - id: landing-apps
+    contents: web_apps/apps
+    type: grid
+    max-items: 6
+    grid-columns: 3
+    sort: 
+      - "date desc"
+      - "title asc"
+about:
+  id: about-forbo7
+  template: jolla
+  image: me.png
+  image-shape: round
+  links:
+    - icon: clipboard-data
+      text: CV
+      href: cv.qmd
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Blankstate1999
+    - icon: github
+      text: GitHub
+      href: https://github.com/Blankstate1999
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leemercer/
+    - icon: envelope
+      text: Email
+      href: mailto:leecraigmercer@gmail.com
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
