@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "my_website"
+  title: "Lee C. Mercer"
   navbar:
     left:
       - href: index.qmd
