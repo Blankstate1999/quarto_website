@@ -43,6 +43,10 @@ about:
       href: mailto:leecraigmercer@gmail.com
 ---
 
-This is a Quarto website.
+Hello. Welcome my website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To find out more about me, click on the 'About me' link at the top of this page. If you are interested in my witterings about psychology, academia, parenthood and other marginalia, take a look at my [Blog](https://bkst.quarto.pub/blankstate/).
+
+On the home page, you'll also find links to my CV and various social media presences. If you would like to get in touch please do so by clicking on the fancy Email button below.
+
+I built this website on Quarto. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
