@@ -28,7 +28,7 @@ about:
   links:
     - icon: clipboard-data
       text: CV
-      href: cv.qmd
+      href: https://drive.google.com/file/d/1PjKamxINwd-X7Km0MRuHSUDxvVDoUarV/view?usp=sharing
     - icon: twitter
       text: Twitter
       href: https://twitter.com/Blankstate1999
