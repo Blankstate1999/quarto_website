@@ -1,5 +1,5 @@
 ---
-title: Hello world.
+title: Welcome.
 comments: False
 format:
   html:
@@ -43,9 +43,7 @@ about:
       href: mailto:leecraigmercer@gmail.com
 ---
 
-Welcome to my website.
-
-I am a MSc Health Psychology student at the University of Bath, United Kingdom. I am currently on placement as a Research Assistant at the University of Bath, completing my masters dissertation.
+I am a MSc Health Psychology student at the University of Bath, United Kingdom, currently on placement as a Research Assistant at the University of Bath, completing my masters dissertation.
 
 My research interests include health psychology, digital health, and social inequalities.
 
