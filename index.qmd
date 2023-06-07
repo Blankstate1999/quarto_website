@@ -1,5 +1,5 @@
 ---
-title: Lee C. Mercer
+title: Hello world.
 comments: False
 format:
   html:
@@ -43,10 +43,14 @@ about:
       href: mailto:leecraigmercer@gmail.com
 ---
 
-Hello. Welcome to my website.
+Welcome to my website.
 
-To find out more, click on 'About me' at the top of the page. If you are interested in my witterings about psychology, academia, parenthood and other marginalia, take a look at my [Blog](https://bkst.quarto.pub/blankstate/).
+I am a MSc Health Psychology student at the University of Bath, United Kingdom. I am currently on placement as a Research Assistant at the University of Bath, completing my masters dissertation.
 
-On this page, you'll also find links to my CV and social media. To contact me, click the fancy Email button below.
+My research interests include health psychology, digital health, and social inequalities.
+
+From October I will be commencing a PhD exploring whether we can make digital health more effective for those in lower socioeconomic groups.
+
+On this page, you'll also find links to my CV and social media. To contact me, click the Email button below.
 
 I built this website on Quarto. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
