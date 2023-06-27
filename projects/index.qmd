@@ -1,0 +1,21 @@
+---
+title: Projects
+---
+
+## Socioeconomic differences in beliefs and attitudes about digital interventions for physical activity
+
+A project to identify the psychosocial mechanisms that might explain the digital divide in the efficacy of digital behavioural change interventions (DBCIs) for weight-related behaviours, such as diet and physical activity.
+
+This project is being undertaken to meet the requirements of the MSc in Health Psychology at the University of Bath.
+
+<a href="https://osf.io/s397v/" target="_blank">OSF</a>
+
+------------------------------------------------------------------------
+
+## A scoping review into the mechanisms reported to explain the digital divide in the efficacy of digital interventions for weight related activities
+
+Digital interventions for weight-related behaviours (diet, exercise) are less effective for those in lower socioeconomic groups. This scoping review will explore what psychosocial mechanisms have been reported to explain the digital divide in the efficacy of digital interventions for weight-related behaviours.
+
+This project is a collaboration with researchers in the University of Bayreuth, Germany.
+
+<a href="https://osf.io/kgyfw/" target="_blank">OSF</a>

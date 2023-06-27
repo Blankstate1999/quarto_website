@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: https://bkst.quarto.pub/blankstate/
-        text: Blog
+      - href: projects/index.qmd
+        text: Projects
       - about.qmd
   twitter-card: True
   page-footer: 

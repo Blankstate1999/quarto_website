@@ -1,5 +1,5 @@
 ---
-title: Welcome.
+title: Hello.
 comments: False
 format:
   html:
@@ -28,7 +28,7 @@ about:
   links:
     - icon: clipboard-data
       text: CV
-      href: https://drive.google.com/file/d/1PjKamxINwd-X7Km0MRuHSUDxvVDoUarV/view?usp=sharing
+      href: "https://drive.google.com/file/d/1PjKamxINwd-X7Km0MRuHSUDxvVDoUarV/view?usp=sharing"
     - icon: twitter
       text: Twitter
       href: https://twitter.com/Blankstate1999
@@ -43,12 +43,10 @@ about:
       href: mailto:leecraigmercer@gmail.com
 ---
 
-I am a MSc Health Psychology student at the University of Bath, United Kingdom, currently on placement as a Research Assistant at the University of Bath, completing my masters dissertation.
+I am currently a MSc Health Psychology student at the University of Bath on placement as a research assistant whilst completing my masters dissertation.
 
-My research interests include health psychology, digital health, and social inequalities.
+My research interests include health psychology, digital health, and health inequality; from October 2023 I will be starting a PhD at the University of Bath exploring how we can make digital health work better for those in lower socioeconomic groups.
 
-From October I will be commencing a PhD exploring whether we can make digital health more effective for those in lower socioeconomic groups.
-
-On this page, you'll also find links to my CV and social media. To contact me, click the Email button below.
+Feel free to contact me using the links below.
 
 I built this website on Quarto. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
